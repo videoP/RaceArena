@@ -1,0 +1,38 @@
+hockeystick_ra
+{
+	name				"Hockey Stick"
+	saberType			SABER_SINGLE
+	saberModel			"models/weapons2/Hockeystick/hockeystick.glm"
+	soundOn			"sound/weapons/wood/swing1.wav"
+	soundLoop			"sound/weapons/wood/null.wav"
+	soundOff			"sound/weapons/wood/swing1.wav"
+	saberLength		50
+	saberradius		15
+	noblade 			1
+	noWallMarks		1
+	noDlight			1
+	noClashFlare 		1
+	trailStyle			3
+	noIdleEffect		1
+	knockbackScale		80
+	damageScale		0.01
+	noDismemberment		1
+	breakParryBonus		7
+	disarmBonus		4
+	noManualDeactivate	1
+	throwable			0
+	twoHanded			1
+	spinSound			"sound/weapons/wood/swing1.wav"	
+	swingSound1		"sound/weapons/wood/swing1.wav"
+	swingSound2		"sound/weapons/wood/swing2.wav"
+	swingSound3		"sound/weapons/wood/swing3.wav"
+	hitSound1			"sound/weapons/wood/woodwack1.wav"
+	hitSound2			"sound/weapons/wood/woodwack2.wav"
+	hitSound3			"sound/weapons/wood/woodwack3.wav"
+	blockSound1		"sound/weapons/wood/woodwack1.wav"
+	blockSound2		"sound/weapons/wood/woodwack2.wav"
+	blockSound3		"sound/weapons/wood/woodwack3.wav"
+	kataMove			"LS_PULL_ATTACK_SWING"
+	
+		
+}

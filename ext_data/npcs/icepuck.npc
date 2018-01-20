@@ -1,0 +1,11 @@
+icepuck
+{
+	playerModel	sentry
+	weapon		WP_NONE
+	//scale 		60
+	health		999999
+	rank			crewman
+	playerTeam		TEAM_NEUTRAL
+	enemyTeam		TEAM_FREE
+	class			CLASS_PRISONER
+}

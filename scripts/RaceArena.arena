@@ -1,0 +1,11 @@
+{
+map "RaceArena"
+longname "Race Arena"
+type "ffa tffa ctf duel powerduel"
+}
+
+{
+map "RaceArena_Pro"
+longname "Race Arena for jaPRO"
+type "ffa tffa ctf duel powerduel"
+}
